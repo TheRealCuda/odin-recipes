@@ -1,0 +1,14 @@
+.heading {
+        color: red;
+        font-family: Tahoma,'Segoe UI', Geneva, Verdana, sans-serif;
+        text-align: center;
+        font-size: 72px;
+}
+
+.heading1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
